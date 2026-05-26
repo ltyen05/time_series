@@ -41,6 +41,8 @@ pip install pandas numpy xgboost scikit-learn matplotlib tabulate
 ```bash
 python main.py
 ```
+### link kaggle:
+https://www.kaggle.com/code/haquangdo/time-series/edit/run/321739777
 
 ## 📦 Mô Tả Các Module
 
